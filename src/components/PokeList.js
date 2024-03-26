@@ -244,6 +244,7 @@ export default function PokeList() {
                           objectFit: "contain",
                           width: "100%",
                           borderRadius: 5,
+                          transform: "scale(1.5)",
                         }}
                       />
                     </div>
